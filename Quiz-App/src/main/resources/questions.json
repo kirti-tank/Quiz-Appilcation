@@ -1,0 +1,443 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "optionA": "Berlin",
+    "optionB": "Madrid",
+    "optionC": "Paris",
+    "optionD": "Rome",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "optionA": "Venus",
+    "optionB": "Mars",
+    "optionC": "Jupiter",
+    "optionD": "Saturn",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Who wrote 'Romeo and Juliet'?",
+    "optionA": "Charles Dickens",
+    "optionB": "William Shakespeare",
+    "optionC": "Leo Tolstoy",
+    "optionD": "Mark Twain",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "What is the largest ocean on Earth?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Pacific Ocean",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "What is the boiling point of water?",
+    "optionA": "100°C",
+    "optionB": "90°C",
+    "optionC": "80°C",
+    "optionD": "120°C",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "What is the capital of India?",
+    "optionA": "Mumbai",
+    "optionB": "New Delhi",
+    "optionC": "Kolkata",
+    "optionD": "Chennai",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "optionA": "Earth",
+    "optionB": "Jupiter",
+    "optionC": "Mars",
+    "optionD": "Venus",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Who is the author of 'Wings of Fire'?",
+    "optionA": "Chetan Bhagat",
+    "optionB": "A. P. J. Abdul Kalam",
+    "optionC": "R. K. Narayan",
+    "optionD": "Rabindranath Tagore",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which is the largest continent in the world?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "Europe",
+    "optionD": "North America",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "What is the chemical symbol for water?",
+    "optionA": "CO\u2082",
+    "optionB": "O\u2082",
+    "optionC": "H\u2082O",
+    "optionD": "NaCl",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "In which year did India gain independence?",
+    "optionA": "1945",
+    "optionB": "1950",
+    "optionC": "1947",
+    "optionD": "1930",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Which gas do plants absorb from the atmosphere?",
+    "optionA": "Oxygen",
+    "optionB": "Nitrogen",
+    "optionC": "Hydrogen",
+    "optionD": "Carbon dioxide",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "What is the hardest natural substance on Earth?",
+    "optionA": "Gold",
+    "optionB": "Iron",
+    "optionC": "Diamond",
+    "optionD": "Platinum",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Who invented the telephone?",
+    "optionA": "Thomas Edison",
+    "optionB": "Alexander Graham Bell",
+    "optionC": "Nikola Tesla",
+    "optionD": "Isaac Newton",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which is the national animal of India?",
+    "optionA": "Lion",
+    "optionB": "Elephant",
+    "optionC": "Tiger",
+    "optionD": "Peacock",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "Thailand",
+    "optionD": "South Korea",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which is the longest river in the world?",
+    "optionA": "Amazon",
+    "optionB": "Ganges",
+    "optionC": "Yangtze",
+    "optionD": "Nile",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "Who discovered gravity?",
+    "optionA": "Albert Einstein",
+    "optionB": "Isaac Newton",
+    "optionC": "Galileo Galilei",
+    "optionD": "Marie Curie",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which is the smallest prime number?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "0",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which is the largest ocean on Earth?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Pacific Ocean",
+    "optionD": "Arctic Ocean",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "What is the full form of CPU?",
+    "optionA": "Central Process Unit",
+    "optionB": "Central Processing Unit",
+    "optionC": "Computer Processing Unit",
+    "optionD": "Control Processing Unit",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "optionA": "Leonardo da Vinci",
+    "optionB": "Vincent van Gogh",
+    "optionC": "Pablo Picasso",
+    "optionD": "Michelangelo",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "Which festival is known as the Festival of Lights?",
+    "optionA": "Holi",
+    "optionB": "Diwali",
+    "optionC": "Eid",
+    "optionD": "Christmas",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which metal is liquid at room temperature?",
+    "optionA": "Iron",
+    "optionB": "Mercury",
+    "optionC": "Copper",
+    "optionD": "Silver",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which planet is closest to the Sun?",
+    "optionA": "Earth",
+    "optionB": "Venus",
+    "optionC": "Mars",
+    "optionD": "Mercury",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "What is the capital of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Brisbane",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Which planet is known as the \"Red Planet\"?",
+    "optionA": "Venus",
+    "optionB": "Mars",
+    "optionC": "Jupiter",
+    "optionD": "Saturn",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "optionA": "Vincent van Gogh",
+    "optionB": "Leonardo da Vinci",
+    "optionC": "Pablo Picasso",
+    "optionD": "Michelangelo",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "What is the largest ocean on Earth?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Pacific Ocean",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "Who wrote \"Romeo and Juliet\"?",
+    "optionA": "Charles Dickens",
+    "optionB": "Jane Austen",
+    "optionC": "William Shakespeare",
+    "optionD": "Mark Twain",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "What is the chemical symbol for gold?",
+    "optionA": "Ag",
+    "optionB": "Au",
+    "optionC": "Fe",
+    "optionD": "Hg",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which country is known as the \"Land of the Rising Sun\"?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "South Korea",
+    "optionD": "Vietnam",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "What is the tallest mountain in the world?",
+    "optionA": "K2",
+    "optionB": "Mount Everest",
+    "optionC": "Kangchenjunga",
+    "optionD": "Lhotse",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Who was the first woman to fly solo around the world?",
+    "optionA": "Amelia Earhart",
+    "optionB": "Valentina Tereshkova",
+    "optionC": "Sally Ride",
+    "optionD": "Svetlana Savitskaya",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "What is the name of the process by which plants make their food?",
+    "optionA": "Respiration",
+    "optionB": "Photosynthesis",
+    "optionC": "Oxidation",
+    "optionD": "Fermentation",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "In what year did the Great October Socialist Revolution take place?",
+    "optionA": "1917",
+    "optionB": "1923",
+    "optionC": "1914",
+    "optionD": "1920",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "What is the largest lake in the world?",
+    "optionA": "Caspian Sea",
+    "optionB": "Baikal",
+    "optionC": "Lake Superior",
+    "optionD": "Ontario",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which planet in the solar system is known as the “Red Planet”?",
+    "optionA": "Venus",
+    "optionB": "Earth",
+    "optionC": "Mars",
+    "optionD": "Jupiter",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Who wrote the novel “War and Peace”?",
+    "optionA": "Anton Chekhov",
+    "optionB": "Fyodor Dostoevsky",
+    "optionC": "Leo Tolstoy",
+    "optionD": "Ivan Turgenev",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "What is the capital of Japan?",
+    "optionA": "Beijing",
+    "optionB": "Tokyo",
+    "optionC": "Seoul",
+    "optionD": "Bangkok",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Which river is the longest in the world?",
+    "optionA": "Amazon",
+    "optionB": "Mississippi",
+    "optionC": "Nile",
+    "optionD": "Yangtze",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "What gas is used to extinguish fires?",
+    "optionA": "Oxygen",
+    "optionB": "Nitrogen",
+    "optionC": "Carbon dioxide",
+    "optionD": "Hydrogen",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "What animal is the national symbol of Australia?",
+    "optionA": "Kangaroo",
+    "optionB": "Koala",
+    "optionC": "Emu",
+    "optionD": "Crocodile",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "Which of the following planets is not a gas giant?",
+    "optionA": "Mars",
+    "optionB": "Jupiter",
+    "optionC": "Saturn",
+    "optionD": "Uranus",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "What is the name of the process by which plants convert sunlight into energy?",
+    "optionA": "Respiration",
+    "optionB": "Photosynthesis",
+    "optionC": "Oxidation",
+    "optionD": "Evolution",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "What chemical element is designated as “Hg”?",
+    "optionA": "Silver",
+    "optionB": "Tin",
+    "optionC": "Copper",
+    "optionD": "Mercury",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "In what year was the first international modern Olympiad held?",
+    "optionA": "1896",
+    "optionB": "1900",
+    "optionC": "1912",
+    "optionD": "1924",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "For which of these disciplines Nobel Prize is awarded?",
+    "optionA": "Physics, Chemistry",
+    "optionB": "Physiology",
+    "optionC": "Medicine",
+    "optionD": "All of the above",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "Entomology is the science that studies:",
+    "optionA": "Behavior of human beings",
+    "optionB": "Insects",
+    "optionC": "The origin and history of technical and scientific terms",
+    "optionD": "The formation of rocks",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "Hitler's party is known as:",
+    "optionA": "Labour Party",
+    "optionB": "Nazi Party",
+    "optionC": "Ku-Klux-Klan",
+    "optionD": "Democratic Party",
+    "correctAns": "B"
+  },
+  {
+    "questionText": "For which Galileo is famous?",
+    "optionA": "Developed the telescope",
+    "optionB": "Discovered four satellites of Jupiter",
+    "optionC": "Found that the swinging motion of the pendulum results in consistent time measurement.",
+    "optionD": "All of the above",
+    "correctAns": "D"
+  },
+  {
+    "questionText": "When the First Afghan War took place?",
+    "optionA": "1839",
+    "optionB": "1843",
+    "optionC": "1833",
+    "optionD": "1848",
+    "correctAns": "A"
+  },
+  {
+    "questionText": "Ecology deals with:",
+    "optionA": "Birds",
+    "optionB": "Cell formation",
+    "optionC": "Relation between organisms and their environment",
+    "optionD": "Tissues",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Which is the largest island?",
+    "optionA": "New Guinea",
+    "optionB": "Andaman Nicobar",
+    "optionC": "Greenland",
+    "optionD": "Hawaii",
+    "correctAns": "C"
+  },
+  {
+    "questionText": "Which one is the hottest continent?",
+    "optionA": "Africa",
+    "optionB": "South Asia",
+    "optionC": "North America",
+    "optionD": "Australia",
+    "correctAns": "A"
+  }
+
+]
